@@ -6,7 +6,7 @@ public class scientificcalculator
     {
         {
             Scanner scnr = new Scanner(System.in);
-
+            // comment
             //Creates variables for the two operands and the user's menu choice
             double firstOperand = 0;
             double secondOperand = 0;
